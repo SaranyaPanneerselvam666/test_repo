@@ -1,3 +1,6 @@
 print ("helloworld")
 print ("hello github")
 print ("merge conflict 1st time")
+print("merge conflict 2nd time")
+print("merge conflict resolved")
+
